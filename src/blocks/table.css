@@ -1,0 +1,26 @@
+.table {
+    border: 1px solid red;
+    padding: 15px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    min-height: 250px;
+
+}
+
+.table__field {
+    border: 2px solid #000;
+    width: 245px;
+    height: 50px;
+}
+
+.table__value {
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.js-table {
+    margin-bottom: 25px;
+    width: 500px;
+    padding: 15px;
+    margin: 0 auto;
+}

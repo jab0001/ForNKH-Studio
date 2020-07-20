@@ -1,0 +1,28 @@
+.accordion {
+    display: block;
+    background-color: grey;
+    min-height: 150px;
+}
+
+.accordion__list {
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.accordion__title {
+    width: 75px;
+    color: #fff;
+
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.accordion__title:hover {
+    color: blue;
+}
+
+.accordion__title:active {
+    color: green;
+}
